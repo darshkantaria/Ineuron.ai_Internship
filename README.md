@@ -37,9 +37,12 @@ Press Ctrl + C to stop the program execution.
 # Working:
 Watch the video
 
+![Screenshot (54)](https://github.com/darshkantaria/Ineuron.ai_Internship/assets/91107260/47af6ec0-e3de-4cc0-b886-3c75a770f926)
+
+
 # Examples :
 NOTE:- I downloaded the images from Google,if you have any query or problem i can remove them, i just used it for Educational purpose.
 
->python gender_age_detection.py --image darsh3.jpg
+python gender_age_detection.py --image darsh3.jpg
 Gender: Male
 Age: 21-25 years
