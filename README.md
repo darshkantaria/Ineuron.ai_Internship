@@ -28,22 +28,16 @@ Download my Repository
 Open your Command Prompt or Terminal and change directory to the folder where all the files are present.
 
 # Detecting Gender and Age of face in Image Use Command :
-  python gender_age_prediction.py --image <image_name>
+python gender_age_prediction.py --image <image_name>
+  
 Note: The Image should be present in same folder where all the files are present
 
 # Detecting Gender and Age of face through webcam Use Command :
-  python gender_age_detection.py
+python gender_age_detection.py
+
 Press Ctrl + C to stop the program execution.
 
 # Working:
 Watch the video
 
 ![Screenshot (54)](https://github.com/darshkantaria/Ineuron.ai_Internship/assets/91107260/47af6ec0-e3de-4cc0-b886-3c75a770f926)
-
-
-# Examples :
-NOTE:- I downloaded the images from Google,if you have any query or problem i can remove them, i just used it for Educational purpose.
-
-python gender_age_detection.py --image darsh3.jpg
-Gender: Male
-Age: 21-25 years
