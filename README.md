@@ -26,11 +26,12 @@ For face detection, we have a .pb file- this is a protobuf file (protocol buffer
 # Usage :
 Download my Repository
 Open your Command Prompt or Terminal and change directory to the folder where all the files are present.
-Detecting Gender and Age of face in Image Use Command :
-  python detect.py --image <image_name>
+
+# Detecting Gender and Age of face in Image Use Command :
+  python gender_age_prediction.py --image <image_name>
 Note: The Image should be present in same folder where all the files are present
 
-Detecting Gender and Age of face through webcam Use Command :
+# Detecting Gender and Age of face through webcam Use Command :
   python gender_age_detection.py
 Press Ctrl + C to stop the program execution.
 
