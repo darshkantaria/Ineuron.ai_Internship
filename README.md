@@ -28,7 +28,7 @@ Download my Repository
 Open your Command Prompt or Terminal and change directory to the folder where all the files are present.
 
 # Detecting Gender and Age of face in Image Use Command :
-python gender_age_prediction.py --image <image_name>
+python gender_age_detection.py --image <image_name>
   
 Note: The Image should be present in same folder where all the files are present
 
